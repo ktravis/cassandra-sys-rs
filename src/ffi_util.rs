@@ -1,6 +1,6 @@
+use cassandra::cass_bool_t;
 use std::slice;
 use std::str;
-use cassandra::cass_bool_t;
 
 use std::str::Utf8Error;
 
